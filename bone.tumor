@@ -1,0 +1,58 @@
+# Step 1: Load the dataset
+df = pd.read_csv("bone_tumor_dataset.csv")  # Replace with your actual dataset path
+
+# Step 2: Check the column names
+print("Column names in the dataset:", df.columns)
+
+# Step 3: Data Preprocessing
+
+# Check for missing values
+print("Checking for missing values:\n", df.isnull().sum())
+
+# Handle missing values (only for numeric columns)
+numeric_columns = df.select_dtypes(include=['number']).columns  # Select only numeric columns
+df[numeric_columns] = df[numeric_columns].fillna(df[numeric_columns].mean())  # Replace missing values with column mean for numeric columns
+
+# Check the column names again and make sure 'Status (NED, AWD, D)' exists
+print("Columns after handling missing values:", df.columns)
+
+# Encode 'Status (NED, AWD, D)' column (NED -> 0, AWD -> 1, D -> 2)
+df['Status (NED, AWD, D)'] = df['Status (NED, AWD, D)'].map({'NED': 0, 'AWD': 1, 'D': 2})
+
+# Step 4: Splitting the dataset into features (X) and target (y)
+X = df.drop(columns=['Status (NED, AWD, D)'])  # Features
+y = df['Status (NED, AWD, D)']  # Target
+
+# Step 5: Remove non-numeric columns from X (features) before scaling
+X = X.select_dtypes(include=[np.number])  # Only keep numeric columns
+
+# Step 6: Split the data into training and testing sets
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+
+# Step 7: Feature Scaling (Standardize the features)
+scaler = StandardScaler()
+X_train = scaler.fit_transform(X_train)
+X_test = scaler.transform(X_test)
+
+# Step 8: Train a model (e.g., Logistic Regression)
+model = LogisticRegression()
+model.fit(X_train, y_train)
+
+# Step 9: Make predictions
+y_pred = model.predict(X_test)
+
+# Step 10: Evaluate the model
+# Confusion Matrix
+cm = confusion_matrix(y_test, y_pred)
+print("Confusion Matrix:\n", cm)
+
+# Classification Report
+print("\nClassification Report:\n", classification_report(y_test, y_pred))
+
+# Step 11: Visualize the confusion matrix
+plt.figure(figsize=(8, 6))
+sns.heatmap(cm, annot=True, fmt='d', cmap='Blues', xticklabels=['NED', 'AWD', 'D'], yticklabels=['NED', 'AWD', 'D'])
+plt.title('Confusion Matrix')
+plt.xlabel('Predicted')
+plt.ylabel('Actual')
+plt.show()

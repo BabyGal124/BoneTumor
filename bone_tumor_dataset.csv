@@ -1,0 +1,501 @@
+Patient ID,Sex,Age,Grade,Histological type,MSKCC type,Site of primary STS,"Status (NED, AWD, D)",Treatment
+STS_001,Female,63,High,pleiomorphic leiomyosarcoma,Leiomyosarcoma,parascapusular,NED,Radiotherapy + Surgery
+STS_002,Female,54,Intermediate,pleiomorphic leiomyosarcoma,MFH,left thigh,D,Surgery + Chemotherapy
+STS_003,Male,22,Intermediate,synovial sarcoma,MFH,right buttock,D,Radiotherapy + Surgery
+STS_004,Female,54,Intermediate,synovial sarcoma,Leiomyosarcoma,right thigh,NED,Radiotherapy + Surgery
+STS_005,Male,63,High,pleiomorphic spindle cell undifferentiated,MFH,right parascapusular,AWD,Radiotherapy + Surgery + Chemotherapy
+STS_006,Female,58,High,poorly differentiated synovial sarcoma,MFH,right thigh,D,Surgery + Chemotherapy
+STS_007,Female,38,Intermediate,pleiomorphic leiomyosarcoma,MFH,left biceps,NED,Radiotherapy + Surgery
+STS_008,Female,83,Intermediate,synovial sarcoma,Leiomyosarcoma,left thigh,NED,Radiotherapy + Surgery
+STS_009,Female,61,High,poorly differentiated synovial sarcoma,MFH,left buttock,NED,Radiotherapy + Surgery + Chemotherapy
+STS_010,Male,43,High,myxoid fibrosarcoma,MFH,right parascapusular,AWD,Radiotherapy + Surgery + Chemotherapy
+STS_011,Male,49,Intermediate,sclerosing epithelioid fibrosarcoma,MFH,right thigh,AWD,Radiotherapy + Surgery + Chemotherapy
+STS_012,Male,44,High,pleiomorphic spindle cell undifferentiated,MFH,right thigh,NED,Radiotherapy + Surgery + Chemotherapy
+STS_013,Female,62,Intermediate,leiomyosarcoma,Leiomyosarcoma,right thigh,NED,Radiotherapy + Surgery
+STS_014,Female,64,Intermediate,malignant solitary fibrous tumor,Leiomyosarcoma,right buttock,NED,Radiotherapy + Surgery
+STS_015,Male,74,High,undifferentiated pleomorphic liposarcoma,MFH,right parascapusular,AWD,Surgery + Chemotherapy
+STS_016,Male,42,High,undifferentiated pleomorphic liposarcoma,MFH,left buttock,AWD,Radiotherapy + Surgery + Chemotherapy
+STS_017,Female,80,Intermediate,synovial sarcoma,Leiomyosarcoma,right thigh,NED,Radiotherapy + Surgery
+STS_018,Female,30,Intermediate,leiomyosarcoma,Leiomyosarcoma,right buttock,NED,Radiotherapy + Surgery
+STS_019,Female,67,High,pleiomorphic leiomyosarcoma,Synovial sarcoma,right thigh,NED,Radiotherapy + Surgery
+STS_020,Female,47,Intermediate,pleiomorphic leiomyosarcoma,Leiomyosarcoma,left biceps,NED,Radiotherapy + Surgery
+STS_021,Female,66,Intermediate,pleiomorphic leiomyosarcoma,Leiomyosarcoma,left buttock,NED,Radiotherapy + Surgery
+STS_022,Female,66,High,myxofibrosarcoma,MFH,right parascapusular,AWD,Radiotherapy + Surgery + Chemotherapy
+STS_023,Male,70,High,leiomyosarcoma,MFH,parascapusular,NED,Radiotherapy + Surgery
+STS_024,Female,66,Intermediate,synovial sarcoma,Synovial sarcoma,right thigh,NED,Radiotherapy + Surgery
+STS_025,Male,67,High,myxoid fibrosarcoma,MFH,left thigh,AWD,Radiotherapy + Surgery + Chemotherapy
+STS_026,Male,49,High,sclerosing epithelioid fibrosarcoma,Leiomyosarcoma,left thigh,D,Radiotherapy + Surgery + Chemotherapy
+STS_027,Female,76,Intermediate,myxofibrosarcoma,MFH,left thigh,AWD,Radiotherapy + Surgery
+STS_028,Female,67,Intermediate,epithelioid sarcoma,Synovial sarcoma,parascapusular,NED,Radiotherapy + Surgery
+STS_029,Female,69,Intermediate,pleiomorphic leiomyosarcoma,Leiomyosarcoma,parascapusular,NED,Radiotherapy + Surgery
+STS_030,Male,44,High,undifferentiated pleomorphic liposarcoma,MFH,right parascapusular,AWD,Radiotherapy + Surgery + Chemotherapy
+STS_031,Female,64,Intermediate,synovial sarcoma,Synovial sarcoma,left thigh,D,Surgery + Chemotherapy
+STS_032,Male,68,High,myxoid fibrosarcoma,MFH,left thigh,AWD,Radiotherapy + Surgery + Chemotherapy
+STS_033,Female,45,Intermediate,sclerosing epithelioid fibrosarcoma,MFH,right thigh,NED,Radiotherapy + Surgery
+STS_034,Male,55,High,sclerosing epithelioid fibrosarcoma,Synovial sarcoma,left thigh,D,Surgery + Chemotherapy
+STS_035,Female,73,Intermediate,pleiomorphic spindle cell undifferentiated,Synovial sarcoma,right thigh,NED,Radiotherapy + Surgery
+STS_036,Female,26,High,malignant solitary fibrous tumor,Synovial sarcoma,left thigh,NED,Radiotherapy + Surgery
+STS_037,Male,63,High,synovial sarcoma,MFH,right buttock,D,Radiotherapy + Surgery
+STS_038,Female,66,Intermediate,pleiomorphic leiomyosarcoma,Leiomyosarcoma,parascapusular,NED,Radiotherapy + Surgery
+STS_039,Male,51,High,myxoid fibrosarcoma,Leiomyosarcoma,right thigh,NED,Radiotherapy + Surgery
+STS_040,Female,80,Intermediate,leiomyosarcoma,Leiomyosarcoma,left thigh,NED,Radiotherapy + Surgery
+STS_041,Male,60,High,pleiomorphic spindle cell undifferentiated,MFH,left thigh,AWD,Radiotherapy + Surgery + Chemotherapy
+STS_042,Female,29,Intermediate,synovial sarcoma,Synovial sarcoma,right thigh,NED,Radiotherapy + Surgery
+STS_043,Female,71,Intermediate,epithelioid sarcoma,Synovial sarcoma,right buttock,D,Surgery + Chemotherapy
+STS_044,Female,53,Intermediate,pleiomorphic leiomyosarcoma,Leiomyosarcoma,right thigh,NED,Radiotherapy + Surgery
+STS_045,Female,77,Intermediate,myxofibrosarcoma,MFH,right thigh,AWD,Radiotherapy + Surgery
+STS_046,Female,61,Intermediate,leiomyosarcoma,Leiomyosarcoma,right thigh,NED,Radiotherapy + Surgery
+STS_047,Male,28,High,undifferentiated - pleiomorphic,MFH,left biceps,D,Surgery + Chemotherapy
+STS_048,Female,63,Intermediate,pleiomorphic leiomyosarcoma,Leiomyosarcoma,right buttock,NED,Radiotherapy + Surgery
+STS_049,Male,48,Intermediate,synovial sarcoma,Synovial sarcoma,right buttock,D,Radiotherapy + Surgery + Chemotherapy
+STS_050,Male,40,High,pleomorphic sarcoma,MFH,left thigh,D,Radiotherapy + Surgery + Chemotherapy
+STS_051,Male,49,High,pleomorphic sarcoma,MFH,right buttock,AWD,Radiotherapy + Surgery + Chemotherapy
+STS_052,Male,42,High,undifferentiated - pleiomorphic,MFH,right parascapusular,D,Radiotherapy + Surgery + Chemotherapy
+STS_053,Female,63,Intermediate,leiomyosarcoma,Leiomyosarcoma,right thigh,NED,Radiotherapy + Surgery
+STS_054,Male,52,High,pleiomorphic leiomyosarcoma,MFH,parascapusular,D,Radiotherapy + Surgery
+STS_055,Male,48,High,myxofibrosarcoma,Synovial sarcoma,right thigh,D,Surgery + Chemotherapy
+STS_056,Male,46,High,myxoid fibrosarcoma,MFH,left thigh,AWD,Radiotherapy + Surgery + Chemotherapy
+STS_057,Female,46,Intermediate,undifferentiated pleomorphic liposarcoma,Leiomyosarcoma,left thigh,NED,Radiotherapy + Surgery
+STS_058,Female,72,Intermediate,epithelioid sarcoma,MFH,left biceps,NED,Radiotherapy + Surgery
+STS_059,Female,61,Intermediate,malignant solitary fibrous tumor,MFH,left thigh,NED,Radiotherapy + Surgery
+STS_060,Female,78,Intermediate,pleiomorphic leiomyosarcoma,Leiomyosarcoma,left biceps,NED,Radiotherapy + Surgery
+STS_061,Male,63,High,undifferentiated - pleiomorphic,MFH,left thigh,AWD,Radiotherapy + Surgery + Chemotherapy
+STS_062,Male,71,High,myxoid fibrosarcoma,MFH,left thigh,D,Radiotherapy + Surgery
+STS_063,Male,73,High,pleiomorphic spindle cell undifferentiated,MFH,right thigh,AWD,Radiotherapy + Surgery + Chemotherapy
+STS_064,Female,65,Intermediate,pleiomorphic leiomyosarcoma,Synovial sarcoma,parascapusular,NED,Radiotherapy + Surgery
+STS_065,Female,67,Intermediate,synovial sarcoma,MFH,left biceps,NED,Radiotherapy + Surgery
+STS_066,Female,72,High,myxofibrosarcoma,Leiomyosarcoma,left thigh,NED,Surgery + Chemotherapy
+STS_067,Female,64,Intermediate,malignant solitary fibrous tumor,Synovial sarcoma,right buttock,D,Radiotherapy + Surgery
+STS_068,Female,57,Intermediate,myxofibrosarcoma,Leiomyosarcoma,right thigh,NED,Radiotherapy + Surgery
+STS_069,Female,57,Intermediate,myxofibrosarcoma,Leiomyosarcoma,left buttock,NED,Radiotherapy + Surgery
+STS_070,Female,36,Intermediate,synovial sarcoma,Leiomyosarcoma,right thigh,NED,Radiotherapy + Surgery
+STS_071,Female,64,High,epithelioid sarcoma,MFH,left biceps,D,Radiotherapy + Surgery
+STS_072,Female,47,Intermediate,synovial sarcoma,Synovial sarcoma,right thigh,D,Radiotherapy + Surgery
+STS_073,Female,53,Intermediate,leiomyosarcoma,MFH,left biceps,NED,Radiotherapy + Surgery
+STS_074,Male,69,High,pleiomorphic leiomyosarcoma,Leiomyosarcoma,left buttock,NED,Radiotherapy + Surgery
+STS_075,Female,45,High,synovial sarcoma,Synovial sarcoma,right buttock,D,Radiotherapy + Surgery + Chemotherapy
+STS_076,Male,39,High,myxofibrosarcoma,Synovial sarcoma,right thigh,NED,Radiotherapy + Surgery
+STS_077,Male,74,High,pleiomorphic spindle cell undifferentiated,MFH,left thigh,AWD,Radiotherapy + Surgery + Chemotherapy
+STS_078,Male,53,High,undifferentiated pleomorphic liposarcoma,MFH,right buttock,AWD,Radiotherapy + Surgery + Chemotherapy
+STS_079,Female,47,Intermediate,leiomyosarcoma,MFH,right thigh,D,Surgery + Chemotherapy
+STS_080,Male,41,Intermediate,synovial sarcoma,Synovial sarcoma,right buttock,NED,Radiotherapy + Surgery
+STS_081,Male,39,High,undifferentiated - pleiomorphic,MFH,left thigh,D,Radiotherapy + Surgery + Chemotherapy
+STS_082,Female,43,High,poorly differentiated synovial sarcoma,Synovial sarcoma,right buttock,D,Surgery + Chemotherapy
+STS_083,Female,61,Intermediate,leiomyosarcoma,Leiomyosarcoma,right buttock,NED,Radiotherapy + Surgery
+STS_084,Male,55,Intermediate,pleomorphic sarcoma,Synovial sarcoma,left thigh,D,Radiotherapy + Surgery
+STS_085,Female,76,Intermediate,pleiomorphic leiomyosarcoma,Leiomyosarcoma,left buttock,NED,Radiotherapy + Surgery
+STS_086,Female,71,Intermediate,pleiomorphic leiomyosarcoma,Synovial sarcoma,left thigh,D,Surgery + Chemotherapy
+STS_087,Female,78,Intermediate,pleiomorphic leiomyosarcoma,Leiomyosarcoma,right thigh,NED,Radiotherapy + Surgery
+STS_088,Female,62,Intermediate,leiomyosarcoma,Leiomyosarcoma,right thigh,NED,Radiotherapy + Surgery
+STS_089,Female,83,Intermediate,synovial sarcoma,Leiomyosarcoma,left biceps,NED,Radiotherapy + Surgery
+STS_090,Female,57,Intermediate,pleiomorphic leiomyosarcoma,Synovial sarcoma,right thigh,NED,Radiotherapy + Surgery
+STS_091,Female,78,Intermediate,epithelioid sarcoma,MFH,left thigh,NED,Radiotherapy + Surgery
+STS_092,Female,63,High,pleiomorphic leiomyosarcoma,Leiomyosarcoma,parascapusular,D,Radiotherapy + Surgery
+STS_093,Female,66,High,pleiomorphic leiomyosarcoma,MFH,left thigh,NED,Radiotherapy + Surgery
+STS_094,Female,42,Intermediate,poorly differentiated synovial sarcoma,Synovial sarcoma,right thigh,NED,Surgery + Chemotherapy
+STS_095,Male,33,High,leiomyosarcoma,Synovial sarcoma,right buttock,D,Radiotherapy + Surgery
+STS_096,Male,68,High,pleiomorphic spindle cell undifferentiated,Leiomyosarcoma,left thigh,D,Radiotherapy + Surgery
+STS_097,Female,64,Intermediate,malignant solitary fibrous tumor,Synovial sarcoma,right buttock,D,Radiotherapy + Surgery
+STS_098,Female,63,High,pleiomorphic leiomyosarcoma,Leiomyosarcoma,left thigh,NED,Radiotherapy + Surgery
+STS_099,Female,41,Intermediate,synovial sarcoma,Synovial sarcoma,left biceps,D,Radiotherapy + Surgery
+STS_100,Male,56,High,undifferentiated pleomorphic liposarcoma,MFH,left buttock,AWD,Radiotherapy + Surgery + Chemotherapy
+STS_101,Female,44,Intermediate,synovial sarcoma,Leiomyosarcoma,parascapusular,D,Radiotherapy + Surgery
+STS_102,Female,63,Intermediate,myxofibrosarcoma,MFH,right thigh,NED,Radiotherapy + Surgery
+STS_103,Female,67,Intermediate,pleiomorphic leiomyosarcoma,Leiomyosarcoma,left thigh,NED,Radiotherapy + Surgery
+STS_104,Male,38,High,pleiomorphic spindle cell undifferentiated,MFH,left thigh,D,Radiotherapy + Surgery + Chemotherapy
+STS_105,Female,78,Intermediate,synovial sarcoma,Synovial sarcoma,right thigh,NED,Radiotherapy + Surgery
+STS_106,Male,18,High,myxoid fibrosarcoma,MFH,left thigh,AWD,Radiotherapy + Surgery + Chemotherapy
+STS_107,Female,72,Intermediate,leiomyosarcoma,Synovial sarcoma,parascapusular,NED,Radiotherapy + Surgery
+STS_108,Male,76,High,malignant solitary fibrous tumor,MFH,left thigh,AWD,Radiotherapy + Surgery + Chemotherapy
+STS_109,Female,51,High,synovial sarcoma,Leiomyosarcoma,left thigh,NED,Surgery + Chemotherapy
+STS_110,Male,63,High,undifferentiated pleomorphic liposarcoma,MFH,left thigh,AWD,Radiotherapy + Surgery + Chemotherapy
+STS_111,Female,77,Intermediate,malignant solitary fibrous tumor,Leiomyosarcoma,parascapusular,D,Radiotherapy + Surgery
+STS_112,Male,50,High,pleiomorphic leiomyosarcoma,MFH,left thigh,NED,Radiotherapy + Surgery + Chemotherapy
+STS_113,Female,69,Intermediate,pleiomorphic leiomyosarcoma,Leiomyosarcoma,left thigh,NED,Radiotherapy + Surgery
+STS_114,Male,25,High,pleiomorphic leiomyosarcoma,MFH,right thigh,AWD,Radiotherapy + Surgery + Chemotherapy
+STS_115,Male,69,High,undifferentiated - pleiomorphic,MFH,left thigh,AWD,Radiotherapy + Surgery + Chemotherapy
+STS_116,Female,34,Intermediate,pleiomorphic leiomyosarcoma,Leiomyosarcoma,left biceps,NED,Radiotherapy + Surgery
+STS_117,Female,39,High,leiomyosarcoma,MFH,right thigh,D,Radiotherapy + Surgery
+STS_118,Male,47,High,undifferentiated - pleiomorphic,Synovial sarcoma,right buttock,AWD,Radiotherapy + Surgery + Chemotherapy
+STS_119,Female,33,Intermediate,sclerosing epithelioid fibrosarcoma,Synovial sarcoma,right buttock,D,Radiotherapy + Surgery
+STS_120,Female,68,Intermediate,synovial sarcoma,MFH,right thigh,NED,Radiotherapy + Surgery
+STS_121,Female,76,Intermediate,malignant solitary fibrous tumor,Synovial sarcoma,parascapusular,NED,Radiotherapy + Surgery
+STS_122,Female,58,Intermediate,pleiomorphic leiomyosarcoma,MFH,left biceps,NED,Radiotherapy + Surgery
+STS_123,Female,74,Intermediate,pleiomorphic leiomyosarcoma,Leiomyosarcoma,right thigh,NED,Radiotherapy + Surgery
+STS_124,Male,38,High,leiomyosarcoma,MFH,left thigh,NED,Radiotherapy + Surgery + Chemotherapy
+STS_125,Female,69,Intermediate,pleiomorphic leiomyosarcoma,Leiomyosarcoma,left thigh,NED,Radiotherapy + Surgery
+STS_126,Female,80,Intermediate,pleiomorphic leiomyosarcoma,Leiomyosarcoma,right thigh,NED,Radiotherapy + Surgery
+STS_127,Male,51,Intermediate,sclerosing epithelioid fibrosarcoma,MFH,right buttock,D,Radiotherapy + Surgery
+STS_128,Female,59,Intermediate,undifferentiated - pleiomorphic,MFH,right thigh,NED,Radiotherapy + Surgery
+STS_129,Female,39,High,undifferentiated pleomorphic liposarcoma,Leiomyosarcoma,parascapusular,NED,Radiotherapy + Surgery
+STS_130,Male,69,High,myxofibrosarcoma,Synovial sarcoma,right parascapusular,AWD,Surgery + Chemotherapy
+STS_131,Female,43,Intermediate,synovial sarcoma,MFH,right thigh,D,Radiotherapy + Surgery
+STS_132,Male,66,High,undifferentiated pleomorphic liposarcoma,MFH,left thigh,AWD,Radiotherapy + Surgery
+STS_133,Male,41,Intermediate,pleiomorphic leiomyosarcoma,Synovial sarcoma,right buttock,NED,Radiotherapy + Surgery
+STS_134,Male,72,High,pleiomorphic leiomyosarcoma,MFH,right buttock,D,Radiotherapy + Surgery
+STS_135,Female,79,Intermediate,pleiomorphic leiomyosarcoma,Leiomyosarcoma,right buttock,D,Radiotherapy + Surgery
+STS_136,Female,18,Intermediate,malignant solitary fibrous tumor,MFH,right thigh,NED,Radiotherapy + Surgery
+STS_137,Male,35,Intermediate,pleiomorphic spindle cell undifferentiated,MFH,right buttock,D,Surgery + Chemotherapy
+STS_138,Female,54,Intermediate,synovial sarcoma,MFH,left thigh,D,Radiotherapy + Surgery + Chemotherapy
+STS_139,Female,57,Intermediate,undifferentiated - pleiomorphic,MFH,left thigh,AWD,Radiotherapy + Surgery + Chemotherapy
+STS_140,Female,83,Intermediate,pleiomorphic leiomyosarcoma,Leiomyosarcoma,left thigh,NED,Radiotherapy + Surgery
+STS_141,Female,65,Intermediate,pleiomorphic leiomyosarcoma,Synovial sarcoma,left thigh,NED,Radiotherapy + Surgery
+STS_142,Female,72,High,leiomyosarcoma,Leiomyosarcoma,left biceps,NED,Radiotherapy + Surgery + Chemotherapy
+STS_143,Male,17,Intermediate,undifferentiated pleomorphic liposarcoma,MFH,left thigh,D,Surgery + Chemotherapy
+STS_144,Female,41,Intermediate,synovial sarcoma,Synovial sarcoma,right thigh,D,Surgery + Chemotherapy
+STS_145,Male,53,High,myxofibrosarcoma,MFH,right buttock,AWD,Radiotherapy + Surgery + Chemotherapy
+STS_146,Female,76,Intermediate,synovial sarcoma,MFH,right thigh,NED,Radiotherapy + Surgery
+STS_147,Male,65,High,myxofibrosarcoma,MFH,left thigh,AWD,Radiotherapy + Surgery + Chemotherapy
+STS_148,Female,60,Intermediate,leiomyosarcoma,Synovial sarcoma,left buttock,NED,Radiotherapy + Surgery
+STS_149,Female,83,Intermediate,undifferentiated - pleiomorphic,Leiomyosarcoma,left buttock,NED,Radiotherapy + Surgery
+STS_150,Male,60,High,myxofibrosarcoma,MFH,right thigh,AWD,Radiotherapy + Surgery + Chemotherapy
+STS_151,Female,45,High,myxofibrosarcoma,MFH,right thigh,NED,Radiotherapy + Surgery
+STS_152,Male,61,High,pleiomorphic leiomyosarcoma,Leiomyosarcoma,left thigh,NED,Radiotherapy + Surgery
+STS_153,Female,52,Intermediate,sclerosing epithelioid fibrosarcoma,Synovial sarcoma,left biceps,NED,Radiotherapy + Surgery
+STS_154,Male,64,High,undifferentiated - pleiomorphic,MFH,left thigh,AWD,Radiotherapy + Surgery + Chemotherapy
+STS_155,Female,76,High,pleiomorphic leiomyosarcoma,MFH,left biceps,NED,Radiotherapy + Surgery
+STS_156,Female,47,Intermediate,myxofibrosarcoma,Synovial sarcoma,right thigh,D,Radiotherapy + Surgery
+STS_157,Female,74,Intermediate,sclerosing epithelioid fibrosarcoma,Synovial sarcoma,parascapusular,D,Radiotherapy + Surgery
+STS_158,Male,17,Intermediate,synovial sarcoma,Synovial sarcoma,right buttock,D,Surgery + Chemotherapy
+STS_159,Male,59,High,undifferentiated - pleiomorphic,MFH,left thigh,AWD,Radiotherapy + Surgery + Chemotherapy
+STS_160,Male,72,High,pleomorphic sarcoma,MFH,left thigh,NED,Radiotherapy + Surgery + Chemotherapy
+STS_161,Female,48,High,myxoid fibrosarcoma,MFH,right parascapusular,NED,Radiotherapy + Surgery + Chemotherapy
+STS_162,Male,39,High,pleiomorphic leiomyosarcoma,MFH,left thigh,NED,Radiotherapy + Surgery
+STS_163,Male,42,High,undifferentiated pleomorphic liposarcoma,MFH,left thigh,AWD,Radiotherapy + Surgery + Chemotherapy
+STS_164,Male,70,High,pleomorphic sarcoma,MFH,left thigh,AWD,Radiotherapy + Surgery + Chemotherapy
+STS_165,Female,47,Intermediate,epithelioid sarcoma,Leiomyosarcoma,parascapusular,NED,Radiotherapy + Surgery
+STS_166,Female,45,Intermediate,malignant solitary fibrous tumor,Synovial sarcoma,left thigh,AWD,Radiotherapy + Surgery
+STS_167,Female,59,Intermediate,undifferentiated - pleiomorphic,Synovial sarcoma,parascapusular,NED,Radiotherapy + Surgery + Chemotherapy
+STS_168,Female,17,High,undifferentiated pleomorphic liposarcoma,MFH,left thigh,NED,Radiotherapy + Surgery
+STS_169,Male,54,High,pleiomorphic spindle cell undifferentiated,Synovial sarcoma,right buttock,AWD,Radiotherapy + Surgery + Chemotherapy
+STS_170,Female,58,High,pleomorphic sarcoma,MFH,left thigh,AWD,Radiotherapy + Surgery + Chemotherapy
+STS_171,Male,72,High,pleiomorphic leiomyosarcoma,MFH,left thigh,AWD,Radiotherapy + Surgery + Chemotherapy
+STS_172,Female,55,Intermediate,leiomyosarcoma,Leiomyosarcoma,parascapusular,NED,Radiotherapy + Surgery
+STS_173,Female,66,Intermediate,pleiomorphic leiomyosarcoma,Leiomyosarcoma,right buttock,NED,Radiotherapy + Surgery
+STS_174,Male,38,High,poorly differentiated synovial sarcoma,Synovial sarcoma,left buttock,D,Surgery + Chemotherapy
+STS_175,Female,68,Intermediate,pleomorphic sarcoma,Synovial sarcoma,right thigh,D,Radiotherapy + Surgery
+STS_176,Female,64,High,sclerosing epithelioid fibrosarcoma,MFH,right thigh,NED,Radiotherapy + Surgery
+STS_177,Female,62,Intermediate,malignant solitary fibrous tumor,Leiomyosarcoma,right thigh,D,Radiotherapy + Surgery
+STS_178,Male,66,High,pleiomorphic spindle cell undifferentiated,MFH,left buttock,NED,Radiotherapy + Surgery + Chemotherapy
+STS_179,Male,75,High,myxofibrosarcoma,MFH,right parascapusular,AWD,Radiotherapy + Surgery + Chemotherapy
+STS_180,Female,69,High,sclerosing epithelioid fibrosarcoma,Leiomyosarcoma,left buttock,NED,Radiotherapy + Surgery
+STS_181,Female,79,Intermediate,myxoid fibrosarcoma,Synovial sarcoma,right buttock,D,Radiotherapy + Surgery
+STS_182,Male,79,Intermediate,pleiomorphic leiomyosarcoma,MFH,left thigh,D,Radiotherapy + Surgery
+STS_183,Female,57,Intermediate,leiomyosarcoma,Leiomyosarcoma,left biceps,NED,Radiotherapy + Surgery
+STS_184,Female,51,Intermediate,myxofibrosarcoma,Leiomyosarcoma,right thigh,NED,Radiotherapy + Surgery
+STS_185,Male,64,High,pleiomorphic leiomyosarcoma,MFH,left buttock,AWD,Radiotherapy + Surgery
+STS_186,Female,41,Intermediate,myxoid fibrosarcoma,MFH,right buttock,D,Radiotherapy + Surgery
+STS_187,Female,70,High,pleiomorphic leiomyosarcoma,MFH,left thigh,D,Radiotherapy + Surgery
+STS_188,Female,17,Intermediate,poorly differentiated synovial sarcoma,Synovial sarcoma,right thigh,NED,Radiotherapy + Surgery
+STS_189,Female,58,Intermediate,synovial sarcoma,Leiomyosarcoma,right thigh,NED,Radiotherapy + Surgery
+STS_190,Female,64,Intermediate,synovial sarcoma,Synovial sarcoma,right thigh,NED,Radiotherapy + Surgery
+STS_191,Female,51,High,pleiomorphic leiomyosarcoma,MFH,left buttock,NED,Radiotherapy + Surgery + Chemotherapy
+STS_192,Female,40,Intermediate,sclerosing epithelioid fibrosarcoma,Synovial sarcoma,right thigh,NED,Radiotherapy + Surgery
+STS_193,Female,64,High,pleomorphic sarcoma,Synovial sarcoma,right thigh,D,Radiotherapy + Surgery
+STS_194,Male,42,High,poorly differentiated synovial sarcoma,MFH,right buttock,D,Radiotherapy + Surgery + Chemotherapy
+STS_195,Male,79,High,pleiomorphic leiomyosarcoma,Leiomyosarcoma,right parascapusular,NED,Radiotherapy + Surgery
+STS_196,Female,59,High,epithelioid sarcoma,Leiomyosarcoma,right thigh,NED,Radiotherapy + Surgery
+STS_197,Female,44,Intermediate,undifferentiated pleomorphic liposarcoma,MFH,left thigh,NED,Radiotherapy + Surgery
+STS_198,Female,17,High,poorly differentiated synovial sarcoma,Synovial sarcoma,right buttock,D,Surgery + Chemotherapy
+STS_199,Female,40,Intermediate,synovial sarcoma,Synovial sarcoma,right thigh,NED,Radiotherapy + Surgery
+STS_200,Female,76,Intermediate,leiomyosarcoma,Synovial sarcoma,right thigh,NED,Radiotherapy + Surgery
+STS_201,Female,46,Intermediate,pleomorphic sarcoma,Leiomyosarcoma,left thigh,NED,Radiotherapy + Surgery
+STS_202,Male,76,Intermediate,malignant solitary fibrous tumor,MFH,left thigh,AWD,Radiotherapy + Surgery + Chemotherapy
+STS_203,Female,24,Intermediate,epithelioid sarcoma,Synovial sarcoma,right thigh,D,Radiotherapy + Surgery
+STS_204,Male,49,High,undifferentiated - pleiomorphic,MFH,left thigh,AWD,Radiotherapy + Surgery + Chemotherapy
+STS_205,Female,56,Intermediate,pleomorphic sarcoma,Leiomyosarcoma,right thigh,NED,Radiotherapy + Surgery
+STS_206,Female,57,Intermediate,synovial sarcoma,Leiomyosarcoma,right thigh,NED,Radiotherapy + Surgery
+STS_207,Female,77,Intermediate,pleiomorphic leiomyosarcoma,Leiomyosarcoma,left thigh,NED,Radiotherapy + Surgery
+STS_208,Female,82,Intermediate,pleiomorphic leiomyosarcoma,Leiomyosarcoma,right parascapusular,NED,Radiotherapy + Surgery
+STS_209,Male,67,Intermediate,myxofibrosarcoma,MFH,left thigh,AWD,Radiotherapy + Surgery
+STS_210,Male,46,High,undifferentiated pleomorphic liposarcoma,MFH,left thigh,AWD,Radiotherapy + Surgery + Chemotherapy
+STS_211,Male,45,Intermediate,poorly differentiated synovial sarcoma,Synovial sarcoma,left buttock,D,Radiotherapy + Surgery + Chemotherapy
+STS_212,Male,66,High,undifferentiated pleomorphic liposarcoma,MFH,left thigh,NED,Radiotherapy + Surgery + Chemotherapy
+STS_213,Female,63,High,pleiomorphic leiomyosarcoma,Leiomyosarcoma,parascapusular,NED,Radiotherapy + Surgery
+STS_214,Female,78,Intermediate,myxofibrosarcoma,Leiomyosarcoma,left biceps,NED,Radiotherapy + Surgery
+STS_215,Male,48,High,myxoid fibrosarcoma,MFH,right buttock,AWD,Radiotherapy + Surgery
+STS_216,Female,74,High,leiomyosarcoma,Leiomyosarcoma,parascapusular,NED,Radiotherapy + Surgery
+STS_217,Female,21,Intermediate,undifferentiated - pleiomorphic,Synovial sarcoma,right buttock,D,Surgery + Chemotherapy
+STS_218,Male,45,High,myxoid fibrosarcoma,MFH,left buttock,D,Radiotherapy + Surgery
+STS_219,Male,48,High,pleiomorphic leiomyosarcoma,MFH,left thigh,AWD,Radiotherapy + Surgery + Chemotherapy
+STS_220,Female,43,High,sclerosing epithelioid fibrosarcoma,MFH,right parascapusular,D,Surgery + Chemotherapy
+STS_221,Female,66,Intermediate,leiomyosarcoma,MFH,right thigh,NED,Radiotherapy + Surgery
+STS_222,Male,50,High,undifferentiated - pleiomorphic,MFH,left biceps,AWD,Radiotherapy + Surgery + Chemotherapy
+STS_223,Female,36,High,pleiomorphic leiomyosarcoma,MFH,left buttock,NED,Radiotherapy + Surgery
+STS_224,Male,36,Intermediate,sclerosing epithelioid fibrosarcoma,MFH,left thigh,AWD,Radiotherapy + Surgery + Chemotherapy
+STS_225,Male,67,High,myxofibrosarcoma,MFH,left buttock,AWD,Radiotherapy + Surgery
+STS_226,Male,40,Intermediate,epithelioid sarcoma,Synovial sarcoma,left thigh,D,Surgery + Chemotherapy
+STS_227,Female,48,Intermediate,myxofibrosarcoma,Synovial sarcoma,right thigh,NED,Radiotherapy + Surgery + Chemotherapy
+STS_228,Male,42,Intermediate,undifferentiated - pleiomorphic,MFH,left thigh,AWD,Radiotherapy + Surgery + Chemotherapy
+STS_229,Male,76,High,myxoid fibrosarcoma,MFH,right thigh,AWD,Radiotherapy + Surgery
+STS_230,Female,43,Intermediate,pleiomorphic leiomyosarcoma,Leiomyosarcoma,right thigh,NED,Radiotherapy + Surgery
+STS_231,Female,48,Intermediate,leiomyosarcoma,Leiomyosarcoma,left buttock,NED,Radiotherapy + Surgery
+STS_232,Female,83,Intermediate,pleiomorphic leiomyosarcoma,Leiomyosarcoma,left buttock,NED,Radiotherapy + Surgery
+STS_233,Male,41,High,myxofibrosarcoma,MFH,right buttock,D,Radiotherapy + Surgery + Chemotherapy
+STS_234,Female,34,Intermediate,pleiomorphic spindle cell undifferentiated,Leiomyosarcoma,right thigh,NED,Radiotherapy + Surgery
+STS_235,Female,54,Intermediate,synovial sarcoma,Synovial sarcoma,right buttock,D,Surgery + Chemotherapy
+STS_236,Female,70,Intermediate,sclerosing epithelioid fibrosarcoma,MFH,parascapusular,NED,Radiotherapy + Surgery
+STS_237,Male,24,High,pleiomorphic leiomyosarcoma,Leiomyosarcoma,left buttock,AWD,Radiotherapy + Surgery
+STS_238,Female,41,Intermediate,undifferentiated - pleiomorphic,Synovial sarcoma,left thigh,D,Surgery + Chemotherapy
+STS_239,Female,23,Intermediate,synovial sarcoma,Synovial sarcoma,right thigh,D,Surgery + Chemotherapy
+STS_240,Female,66,Intermediate,pleiomorphic leiomyosarcoma,Leiomyosarcoma,right thigh,NED,Radiotherapy + Surgery
+STS_241,Male,61,High,pleiomorphic spindle cell undifferentiated,MFH,right parascapusular,AWD,Radiotherapy + Surgery + Chemotherapy
+STS_242,Male,42,Intermediate,epithelioid sarcoma,Synovial sarcoma,left thigh,D,Surgery + Chemotherapy
+STS_243,Female,76,Intermediate,pleiomorphic leiomyosarcoma,Synovial sarcoma,right thigh,NED,Radiotherapy + Surgery
+STS_244,Male,45,High,myxofibrosarcoma,MFH,right thigh,AWD,Radiotherapy + Surgery + Chemotherapy
+STS_245,Female,22,Intermediate,pleiomorphic leiomyosarcoma,Leiomyosarcoma,right thigh,NED,Radiotherapy + Surgery
+STS_246,Male,46,High,poorly differentiated synovial sarcoma,MFH,right parascapusular,D,Radiotherapy + Surgery + Chemotherapy
+STS_247,Female,44,Intermediate,synovial sarcoma,Synovial sarcoma,right thigh,D,Radiotherapy + Surgery
+STS_248,Female,69,Intermediate,myxofibrosarcoma,MFH,left thigh,D,Radiotherapy + Surgery + Chemotherapy
+STS_249,Female,53,Intermediate,pleiomorphic leiomyosarcoma,MFH,left thigh,NED,Radiotherapy + Surgery
+STS_250,Female,52,Intermediate,pleiomorphic leiomyosarcoma,MFH,left buttock,NED,Radiotherapy + Surgery
+STS_251,Female,41,Intermediate,synovial sarcoma,Synovial sarcoma,right thigh,D,Radiotherapy + Surgery
+STS_252,Male,67,High,synovial sarcoma,MFH,right buttock,D,Surgery + Chemotherapy
+STS_253,Female,46,High,leiomyosarcoma,Synovial sarcoma,right thigh,D,Radiotherapy + Surgery
+STS_254,Male,49,High,undifferentiated - pleiomorphic,MFH,left thigh,AWD,Radiotherapy + Surgery
+STS_255,Male,63,High,pleiomorphic leiomyosarcoma,Leiomyosarcoma,left biceps,NED,Radiotherapy + Surgery
+STS_256,Male,38,Intermediate,undifferentiated pleomorphic liposarcoma,MFH,right thigh,D,Radiotherapy + Surgery
+STS_257,Male,70,High,sclerosing epithelioid fibrosarcoma,MFH,right buttock,D,Surgery + Chemotherapy
+STS_258,Male,76,High,undifferentiated pleomorphic liposarcoma,MFH,right parascapusular,AWD,Radiotherapy + Surgery + Chemotherapy
+STS_259,Female,19,Intermediate,synovial sarcoma,Synovial sarcoma,right buttock,D,Radiotherapy + Surgery
+STS_260,Male,79,High,pleiomorphic spindle cell undifferentiated,MFH,left thigh,AWD,Radiotherapy + Surgery + Chemotherapy
+STS_261,Male,72,High,myxofibrosarcoma,MFH,left thigh,NED,Radiotherapy + Surgery
+STS_262,Female,25,Intermediate,synovial sarcoma,Synovial sarcoma,right thigh,NED,Radiotherapy + Surgery
+STS_263,Female,72,High,pleiomorphic leiomyosarcoma,Leiomyosarcoma,left buttock,NED,Radiotherapy + Surgery
+STS_264,Female,45,Intermediate,myxoid fibrosarcoma,Synovial sarcoma,right buttock,D,Surgery + Chemotherapy
+STS_265,Female,83,Intermediate,undifferentiated - pleiomorphic,Leiomyosarcoma,left biceps,NED,Radiotherapy + Surgery
+STS_266,Male,44,High,myxoid fibrosarcoma,Synovial sarcoma,left thigh,NED,Radiotherapy + Surgery
+STS_267,Male,34,High,undifferentiated - pleiomorphic,MFH,right parascapusular,D,Radiotherapy + Surgery + Chemotherapy
+STS_268,Female,40,Intermediate,synovial sarcoma,Synovial sarcoma,right parascapusular,NED,Radiotherapy + Surgery
+STS_269,Female,49,Intermediate,synovial sarcoma,Synovial sarcoma,right thigh,NED,Radiotherapy + Surgery
+STS_270,Female,70,High,epithelioid sarcoma,Leiomyosarcoma,left thigh,D,Radiotherapy + Surgery
+STS_271,Male,44,High,pleiomorphic leiomyosarcoma,MFH,left biceps,AWD,Radiotherapy + Surgery + Chemotherapy
+STS_272,Female,78,Intermediate,malignant solitary fibrous tumor,Leiomyosarcoma,left thigh,NED,Radiotherapy + Surgery
+STS_273,Female,81,Intermediate,pleiomorphic leiomyosarcoma,MFH,right thigh,NED,Radiotherapy + Surgery
+STS_274,Female,68,High,synovial sarcoma,MFH,left buttock,NED,Radiotherapy + Surgery
+STS_275,Male,17,High,undifferentiated - pleiomorphic,MFH,right parascapusular,NED,Radiotherapy + Surgery + Chemotherapy
+STS_276,Female,52,Intermediate,synovial sarcoma,Leiomyosarcoma,right thigh,NED,Radiotherapy + Surgery
+STS_277,Male,38,High,poorly differentiated synovial sarcoma,MFH,right thigh,AWD,Radiotherapy + Surgery + Chemotherapy
+STS_278,Male,61,Intermediate,undifferentiated pleomorphic liposarcoma,MFH,right thigh,AWD,Radiotherapy + Surgery + Chemotherapy
+STS_279,Male,42,Intermediate,pleiomorphic spindle cell undifferentiated,MFH,right parascapusular,AWD,Radiotherapy + Surgery + Chemotherapy
+STS_280,Female,48,High,pleiomorphic leiomyosarcoma,Synovial sarcoma,left thigh,NED,Radiotherapy + Surgery
+STS_281,Female,67,Intermediate,leiomyosarcoma,Leiomyosarcoma,right thigh,NED,Radiotherapy + Surgery
+STS_282,Female,47,Intermediate,synovial sarcoma,Synovial sarcoma,right thigh,NED,Radiotherapy + Surgery
+STS_283,Male,50,Intermediate,pleiomorphic leiomyosarcoma,Synovial sarcoma,parascapusular,NED,Radiotherapy + Surgery
+STS_284,Female,83,Intermediate,myxofibrosarcoma,Leiomyosarcoma,right thigh,NED,Radiotherapy + Surgery
+STS_285,Female,71,Intermediate,leiomyosarcoma,Synovial sarcoma,right thigh,NED,Radiotherapy + Surgery
+STS_286,Male,71,High,poorly differentiated synovial sarcoma,Leiomyosarcoma,left thigh,AWD,Radiotherapy + Surgery
+STS_287,Female,51,High,malignant solitary fibrous tumor,MFH,right parascapusular,AWD,Surgery + Chemotherapy
+STS_288,Male,45,High,pleiomorphic spindle cell undifferentiated,MFH,left thigh,AWD,Radiotherapy + Surgery + Chemotherapy
+STS_289,Female,68,Intermediate,pleiomorphic leiomyosarcoma,Leiomyosarcoma,right thigh,NED,Radiotherapy + Surgery
+STS_290,Female,52,High,pleiomorphic leiomyosarcoma,Synovial sarcoma,left thigh,NED,Radiotherapy + Surgery
+STS_291,Male,41,High,myxoid fibrosarcoma,MFH,left thigh,AWD,Radiotherapy + Surgery + Chemotherapy
+STS_292,Female,68,Intermediate,malignant solitary fibrous tumor,Synovial sarcoma,right thigh,NED,Radiotherapy + Surgery
+STS_293,Female,54,Intermediate,pleiomorphic leiomyosarcoma,MFH,left biceps,NED,Radiotherapy + Surgery
+STS_294,Male,63,High,leiomyosarcoma,Leiomyosarcoma,left thigh,NED,Radiotherapy + Surgery
+STS_295,Male,69,Intermediate,myxofibrosarcoma,MFH,left thigh,D,Radiotherapy + Surgery + Chemotherapy
+STS_296,Female,44,Intermediate,malignant solitary fibrous tumor,Leiomyosarcoma,left buttock,D,Radiotherapy + Surgery
+STS_297,Male,41,Intermediate,poorly differentiated synovial sarcoma,MFH,left thigh,AWD,Radiotherapy + Surgery + Chemotherapy
+STS_298,Female,70,High,pleiomorphic leiomyosarcoma,Leiomyosarcoma,left buttock,NED,Radiotherapy + Surgery
+STS_299,Female,81,Intermediate,pleiomorphic leiomyosarcoma,Leiomyosarcoma,left buttock,AWD,Radiotherapy + Surgery
+STS_300,Female,50,Intermediate,pleiomorphic leiomyosarcoma,MFH,right thigh,D,Radiotherapy + Surgery
+STS_301,Female,76,Intermediate,leiomyosarcoma,Synovial sarcoma,right thigh,NED,Radiotherapy + Surgery
+STS_302,Female,83,High,pleiomorphic leiomyosarcoma,Leiomyosarcoma,parascapusular,NED,Radiotherapy + Surgery
+STS_303,Female,60,Intermediate,pleiomorphic spindle cell undifferentiated,Leiomyosarcoma,right thigh,NED,Radiotherapy + Surgery
+STS_304,Female,80,Intermediate,leiomyosarcoma,Leiomyosarcoma,parascapusular,NED,Radiotherapy + Surgery
+STS_305,Male,45,High,myxofibrosarcoma,MFH,left thigh,AWD,Radiotherapy + Surgery + Chemotherapy
+STS_306,Female,46,Intermediate,synovial sarcoma,Synovial sarcoma,right thigh,NED,Radiotherapy + Surgery + Chemotherapy
+STS_307,Female,71,Intermediate,leiomyosarcoma,MFH,left thigh,NED,Radiotherapy + Surgery + Chemotherapy
+STS_308,Female,83,Intermediate,pleiomorphic leiomyosarcoma,MFH,left thigh,NED,Radiotherapy + Surgery
+STS_309,Male,80,Intermediate,pleiomorphic spindle cell undifferentiated,MFH,right thigh,NED,Radiotherapy + Surgery
+STS_310,Female,75,Intermediate,myxofibrosarcoma,MFH,right thigh,AWD,Radiotherapy + Surgery
+STS_311,Female,47,Intermediate,poorly differentiated synovial sarcoma,Leiomyosarcoma,right thigh,NED,Radiotherapy + Surgery
+STS_312,Male,42,High,leiomyosarcoma,MFH,right buttock,D,Radiotherapy + Surgery + Chemotherapy
+STS_313,Female,54,High,undifferentiated - pleiomorphic,Synovial sarcoma,right buttock,D,Surgery + Chemotherapy
+STS_314,Female,68,Intermediate,malignant solitary fibrous tumor,Leiomyosarcoma,left thigh,NED,Radiotherapy + Surgery
+STS_315,Female,72,Intermediate,pleiomorphic leiomyosarcoma,Leiomyosarcoma,left biceps,NED,Radiotherapy + Surgery
+STS_316,Female,47,Intermediate,synovial sarcoma,Synovial sarcoma,left thigh,D,Radiotherapy + Surgery
+STS_317,Male,34,Intermediate,sclerosing epithelioid fibrosarcoma,Synovial sarcoma,right buttock,D,Surgery + Chemotherapy
+STS_318,Male,65,High,undifferentiated pleomorphic liposarcoma,Leiomyosarcoma,left thigh,NED,Radiotherapy + Surgery + Chemotherapy
+STS_319,Male,60,High,undifferentiated - pleiomorphic,MFH,left thigh,AWD,Radiotherapy + Surgery + Chemotherapy
+STS_320,Female,58,Intermediate,synovial sarcoma,Leiomyosarcoma,right thigh,NED,Radiotherapy + Surgery
+STS_321,Female,60,High,pleiomorphic leiomyosarcoma,Synovial sarcoma,left thigh,NED,Radiotherapy + Surgery
+STS_322,Female,83,High,pleiomorphic leiomyosarcoma,Synovial sarcoma,right buttock,NED,Radiotherapy + Surgery
+STS_323,Female,53,High,sclerosing epithelioid fibrosarcoma,Leiomyosarcoma,right thigh,NED,Radiotherapy + Surgery
+STS_324,Male,48,High,undifferentiated - pleiomorphic,MFH,left thigh,AWD,Radiotherapy + Surgery + Chemotherapy
+STS_325,Female,48,Intermediate,sclerosing epithelioid fibrosarcoma,Leiomyosarcoma,right buttock,NED,Radiotherapy + Surgery
+STS_326,Female,71,High,pleiomorphic leiomyosarcoma,MFH,left thigh,AWD,Radiotherapy + Surgery
+STS_327,Male,47,High,pleiomorphic leiomyosarcoma,MFH,right buttock,D,Radiotherapy + Surgery + Chemotherapy
+STS_328,Male,56,High,myxofibrosarcoma,Leiomyosarcoma,left thigh,AWD,Radiotherapy + Surgery + Chemotherapy
+STS_329,Male,49,High,undifferentiated pleomorphic liposarcoma,Synovial sarcoma,left thigh,D,Radiotherapy + Surgery + Chemotherapy
+STS_330,Female,45,Intermediate,sclerosing epithelioid fibrosarcoma,Leiomyosarcoma,parascapusular,NED,Radiotherapy + Surgery
+STS_331,Male,76,Intermediate,myxoid fibrosarcoma,MFH,left thigh,AWD,Radiotherapy + Surgery + Chemotherapy
+STS_332,Male,56,High,undifferentiated pleomorphic liposarcoma,MFH,right parascapusular,D,Radiotherapy + Surgery + Chemotherapy
+STS_333,Male,43,High,pleiomorphic spindle cell undifferentiated,MFH,left buttock,AWD,Radiotherapy + Surgery + Chemotherapy
+STS_334,Male,72,Intermediate,synovial sarcoma,Synovial sarcoma,right buttock,D,Surgery + Chemotherapy
+STS_335,Male,72,Intermediate,undifferentiated pleomorphic liposarcoma,MFH,left thigh,AWD,Radiotherapy + Surgery + Chemotherapy
+STS_336,Female,60,Intermediate,pleiomorphic spindle cell undifferentiated,Leiomyosarcoma,left biceps,AWD,Radiotherapy + Surgery + Chemotherapy
+STS_337,Female,83,Intermediate,pleiomorphic leiomyosarcoma,Leiomyosarcoma,left thigh,NED,Radiotherapy + Surgery
+STS_338,Female,53,Intermediate,malignant solitary fibrous tumor,Leiomyosarcoma,right thigh,D,Radiotherapy + Surgery
+STS_339,Female,17,Intermediate,synovial sarcoma,Synovial sarcoma,right buttock,D,Radiotherapy + Surgery
+STS_340,Male,42,High,myxofibrosarcoma,MFH,parascapusular,D,Surgery + Chemotherapy
+STS_341,Male,83,High,undifferentiated pleomorphic liposarcoma,MFH,left thigh,AWD,Radiotherapy + Surgery + Chemotherapy
+STS_342,Female,39,Intermediate,pleiomorphic leiomyosarcoma,MFH,right thigh,D,Radiotherapy + Surgery
+STS_343,Female,74,Intermediate,pleiomorphic leiomyosarcoma,MFH,left thigh,NED,Radiotherapy + Surgery
+STS_344,Female,68,High,pleiomorphic leiomyosarcoma,Leiomyosarcoma,right buttock,NED,Radiotherapy + Surgery
+STS_345,Male,56,High,myxofibrosarcoma,Synovial sarcoma,right parascapusular,AWD,Radiotherapy + Surgery + Chemotherapy
+STS_346,Male,34,Intermediate,undifferentiated pleomorphic liposarcoma,Leiomyosarcoma,parascapusular,NED,Radiotherapy + Surgery
+STS_347,Female,47,Intermediate,epithelioid sarcoma,MFH,left biceps,NED,Radiotherapy + Surgery
+STS_348,Male,60,High,synovial sarcoma,Synovial sarcoma,right buttock,D,Surgery + Chemotherapy
+STS_349,Female,82,Intermediate,sclerosing epithelioid fibrosarcoma,Leiomyosarcoma,left biceps,NED,Radiotherapy + Surgery
+STS_350,Male,54,High,myxofibrosarcoma,MFH,left thigh,AWD,Radiotherapy + Surgery + Chemotherapy
+STS_351,Male,69,Intermediate,synovial sarcoma,Leiomyosarcoma,left thigh,NED,Radiotherapy + Surgery + Chemotherapy
+STS_352,Female,53,High,pleiomorphic leiomyosarcoma,Leiomyosarcoma,left biceps,NED,Radiotherapy + Surgery
+STS_353,Male,40,High,pleiomorphic leiomyosarcoma,MFH,right buttock,D,Radiotherapy + Surgery + Chemotherapy
+STS_354,Male,48,High,pleiomorphic spindle cell undifferentiated,MFH,left thigh,AWD,Radiotherapy + Surgery + Chemotherapy
+STS_355,Male,69,High,undifferentiated - pleiomorphic,MFH,left thigh,AWD,Radiotherapy + Surgery + Chemotherapy
+STS_356,Female,41,High,pleomorphic sarcoma,Synovial sarcoma,right thigh,NED,Radiotherapy + Surgery
+STS_357,Female,54,Intermediate,malignant solitary fibrous tumor,Leiomyosarcoma,left thigh,D,Radiotherapy + Surgery
+STS_358,Male,42,High,myxofibrosarcoma,Synovial sarcoma,right buttock,D,Surgery + Chemotherapy
+STS_359,Male,67,High,myxoid fibrosarcoma,MFH,left thigh,AWD,Radiotherapy + Surgery + Chemotherapy
+STS_360,Female,73,Intermediate,pleomorphic sarcoma,Leiomyosarcoma,right buttock,D,Radiotherapy + Surgery
+STS_361,Female,62,Intermediate,myxofibrosarcoma,MFH,right thigh,NED,Radiotherapy + Surgery
+STS_362,Female,57,Intermediate,leiomyosarcoma,Synovial sarcoma,parascapusular,NED,Radiotherapy + Surgery
+STS_363,Male,62,High,myxoid fibrosarcoma,MFH,left thigh,NED,Radiotherapy + Surgery
+STS_364,Female,39,Intermediate,leiomyosarcoma,Leiomyosarcoma,left buttock,NED,Radiotherapy + Surgery
+STS_365,Male,41,High,pleiomorphic spindle cell undifferentiated,MFH,left thigh,AWD,Radiotherapy + Surgery + Chemotherapy
+STS_366,Female,46,Intermediate,malignant solitary fibrous tumor,Leiomyosarcoma,right thigh,NED,Radiotherapy + Surgery
+STS_367,Male,50,High,pleomorphic sarcoma,MFH,left thigh,D,Radiotherapy + Surgery + Chemotherapy
+STS_368,Female,77,High,pleiomorphic leiomyosarcoma,MFH,left biceps,NED,Surgery + Chemotherapy
+STS_369,Female,63,High,synovial sarcoma,Leiomyosarcoma,right thigh,D,Radiotherapy + Surgery
+STS_370,Female,37,Intermediate,synovial sarcoma,Synovial sarcoma,right buttock,NED,Surgery + Chemotherapy
+STS_371,Male,42,High,pleomorphic sarcoma,MFH,left thigh,AWD,Radiotherapy + Surgery + Chemotherapy
+STS_372,Male,68,High,epithelioid sarcoma,Leiomyosarcoma,left thigh,D,Surgery + Chemotherapy
+STS_373,Female,55,Intermediate,malignant solitary fibrous tumor,Leiomyosarcoma,right thigh,NED,Radiotherapy + Surgery
+STS_374,Male,48,High,leiomyosarcoma,MFH,left thigh,AWD,Radiotherapy + Surgery + Chemotherapy
+STS_375,Female,25,Intermediate,sclerosing epithelioid fibrosarcoma,Synovial sarcoma,left buttock,NED,Radiotherapy + Surgery
+STS_376,Male,40,High,poorly differentiated synovial sarcoma,MFH,right thigh,AWD,Radiotherapy + Surgery + Chemotherapy
+STS_377,Male,68,Intermediate,undifferentiated pleomorphic liposarcoma,MFH,right parascapusular,D,Radiotherapy + Surgery + Chemotherapy
+STS_378,Male,43,Intermediate,malignant solitary fibrous tumor,Synovial sarcoma,right buttock,AWD,Surgery + Chemotherapy
+STS_379,Female,66,Intermediate,pleiomorphic leiomyosarcoma,MFH,parascapusular,NED,Radiotherapy + Surgery
+STS_380,Male,35,High,pleiomorphic spindle cell undifferentiated,MFH,left buttock,NED,Radiotherapy + Surgery + Chemotherapy
+STS_381,Male,45,High,undifferentiated - pleiomorphic,MFH,right parascapusular,D,Surgery + Chemotherapy
+STS_382,Female,46,Intermediate,malignant solitary fibrous tumor,MFH,parascapusular,D,Radiotherapy + Surgery
+STS_383,Female,48,Intermediate,synovial sarcoma,Synovial sarcoma,right thigh,D,Surgery + Chemotherapy
+STS_384,Female,72,Intermediate,pleiomorphic leiomyosarcoma,MFH,left biceps,NED,Radiotherapy + Surgery
+STS_385,Male,70,High,pleiomorphic leiomyosarcoma,Synovial sarcoma,right thigh,NED,Radiotherapy + Surgery
+STS_386,Male,22,Intermediate,poorly differentiated synovial sarcoma,Leiomyosarcoma,right thigh,D,Radiotherapy + Surgery
+STS_387,Male,45,High,pleiomorphic spindle cell undifferentiated,MFH,right thigh,NED,Radiotherapy + Surgery
+STS_388,Male,64,Intermediate,leiomyosarcoma,Leiomyosarcoma,right thigh,NED,Radiotherapy + Surgery
+STS_389,Female,52,Intermediate,pleiomorphic leiomyosarcoma,Leiomyosarcoma,left buttock,D,Surgery + Chemotherapy
+STS_390,Male,49,High,undifferentiated - pleiomorphic,MFH,left thigh,D,Radiotherapy + Surgery + Chemotherapy
+STS_391,Female,77,Intermediate,malignant solitary fibrous tumor,Synovial sarcoma,right thigh,NED,Radiotherapy + Surgery
+STS_392,Female,77,Intermediate,synovial sarcoma,Leiomyosarcoma,left buttock,D,Radiotherapy + Surgery + Chemotherapy
+STS_393,Female,47,Intermediate,synovial sarcoma,Synovial sarcoma,right thigh,D,Surgery + Chemotherapy
+STS_394,Female,30,High,leiomyosarcoma,MFH,right thigh,NED,Radiotherapy + Surgery
+STS_395,Male,63,High,undifferentiated pleomorphic liposarcoma,MFH,left thigh,D,Radiotherapy + Surgery + Chemotherapy
+STS_396,Female,33,Intermediate,pleomorphic sarcoma,Synovial sarcoma,right buttock,NED,Radiotherapy + Surgery
+STS_397,Female,72,Intermediate,poorly differentiated synovial sarcoma,Leiomyosarcoma,parascapusular,NED,Radiotherapy + Surgery
+STS_398,Female,67,Intermediate,synovial sarcoma,Leiomyosarcoma,left thigh,NED,Radiotherapy + Surgery
+STS_399,Male,66,High,myxoid fibrosarcoma,MFH,left thigh,AWD,Radiotherapy + Surgery + Chemotherapy
+STS_400,Female,17,Intermediate,synovial sarcoma,Synovial sarcoma,left thigh,D,Surgery + Chemotherapy
+STS_401,Female,21,High,undifferentiated - pleiomorphic,MFH,right buttock,NED,Radiotherapy + Surgery
+STS_402,Female,50,Intermediate,undifferentiated - pleiomorphic,Synovial sarcoma,right thigh,D,Surgery + Chemotherapy
+STS_403,Female,41,Intermediate,malignant solitary fibrous tumor,Leiomyosarcoma,right thigh,NED,Radiotherapy + Surgery
+STS_404,Male,59,High,myxofibrosarcoma,MFH,left thigh,AWD,Radiotherapy + Surgery + Chemotherapy
+STS_405,Female,33,Intermediate,sclerosing epithelioid fibrosarcoma,MFH,right buttock,NED,Radiotherapy + Surgery
+STS_406,Male,74,High,pleiomorphic leiomyosarcoma,Leiomyosarcoma,left thigh,NED,Radiotherapy + Surgery
+STS_407,Female,59,Intermediate,pleiomorphic leiomyosarcoma,Synovial sarcoma,right thigh,NED,Radiotherapy + Surgery
+STS_408,Female,72,Intermediate,malignant solitary fibrous tumor,MFH,left thigh,NED,Radiotherapy + Surgery
+STS_409,Female,79,Intermediate,pleiomorphic leiomyosarcoma,Synovial sarcoma,right thigh,NED,Radiotherapy + Surgery
+STS_410,Female,31,Intermediate,malignant solitary fibrous tumor,MFH,right parascapusular,AWD,Radiotherapy + Surgery
+STS_411,Female,59,Intermediate,leiomyosarcoma,Leiomyosarcoma,parascapusular,NED,Radiotherapy + Surgery
+STS_412,Female,78,Intermediate,leiomyosarcoma,Leiomyosarcoma,parascapusular,NED,Radiotherapy + Surgery
+STS_413,Male,33,Intermediate,synovial sarcoma,Synovial sarcoma,right buttock,D,Radiotherapy + Surgery
+STS_414,Female,30,High,synovial sarcoma,Leiomyosarcoma,right thigh,NED,Radiotherapy + Surgery
+STS_415,Male,64,Intermediate,pleomorphic sarcoma,Synovial sarcoma,parascapusular,NED,Radiotherapy + Surgery
+STS_416,Female,78,Intermediate,leiomyosarcoma,Synovial sarcoma,parascapusular,NED,Radiotherapy + Surgery
+STS_417,Female,41,Intermediate,synovial sarcoma,Synovial sarcoma,right thigh,D,Radiotherapy + Surgery
+STS_418,Male,60,High,pleiomorphic spindle cell undifferentiated,MFH,right parascapusular,AWD,Radiotherapy + Surgery + Chemotherapy
+STS_419,Male,81,High,synovial sarcoma,MFH,right buttock,NED,Radiotherapy + Surgery + Chemotherapy
+STS_420,Female,69,Intermediate,sclerosing epithelioid fibrosarcoma,MFH,right thigh,NED,Radiotherapy + Surgery
+STS_421,Male,38,Intermediate,pleomorphic sarcoma,Synovial sarcoma,left buttock,NED,Radiotherapy + Surgery
+STS_422,Female,17,Intermediate,myxofibrosarcoma,Leiomyosarcoma,left thigh,NED,Radiotherapy + Surgery
+STS_423,Male,72,High,poorly differentiated synovial sarcoma,Leiomyosarcoma,right parascapusular,AWD,Radiotherapy + Surgery + Chemotherapy
+STS_424,Female,64,Intermediate,synovial sarcoma,MFH,left thigh,NED,Radiotherapy + Surgery
+STS_425,Male,47,High,myxoid fibrosarcoma,MFH,left thigh,AWD,Radiotherapy + Surgery
+STS_426,Female,45,Intermediate,myxoid fibrosarcoma,MFH,right thigh,NED,Radiotherapy + Surgery
+STS_427,Female,70,Intermediate,leiomyosarcoma,Leiomyosarcoma,right thigh,NED,Radiotherapy + Surgery
+STS_428,Female,67,Intermediate,synovial sarcoma,Synovial sarcoma,right thigh,NED,Radiotherapy + Surgery
+STS_429,Male,41,High,undifferentiated pleomorphic liposarcoma,MFH,left thigh,AWD,Radiotherapy + Surgery + Chemotherapy
+STS_430,Male,45,Intermediate,pleiomorphic spindle cell undifferentiated,MFH,left thigh,D,Surgery + Chemotherapy
+STS_431,Male,51,Intermediate,myxofibrosarcoma,MFH,right buttock,D,Radiotherapy + Surgery
+STS_432,Male,61,Intermediate,pleiomorphic leiomyosarcoma,MFH,right thigh,NED,Radiotherapy + Surgery
+STS_433,Female,17,Intermediate,myxofibrosarcoma,MFH,left biceps,D,Radiotherapy + Surgery
+STS_434,Female,66,High,myxoid fibrosarcoma,MFH,left thigh,NED,Radiotherapy + Surgery
+STS_435,Male,40,High,undifferentiated - pleiomorphic,MFH,left thigh,NED,Radiotherapy + Surgery + Chemotherapy
+STS_436,Female,63,High,synovial sarcoma,Synovial sarcoma,left biceps,D,Radiotherapy + Surgery
+STS_437,Female,46,Intermediate,leiomyosarcoma,Synovial sarcoma,right buttock,D,Surgery + Chemotherapy
+STS_438,Male,38,High,pleiomorphic spindle cell undifferentiated,MFH,right buttock,D,Surgery + Chemotherapy
+STS_439,Female,72,Intermediate,sclerosing epithelioid fibrosarcoma,Leiomyosarcoma,right thigh,NED,Radiotherapy + Surgery
+STS_440,Male,53,High,undifferentiated pleomorphic liposarcoma,MFH,left thigh,AWD,Radiotherapy + Surgery + Chemotherapy
+STS_441,Female,67,High,pleiomorphic leiomyosarcoma,Leiomyosarcoma,left biceps,NED,Radiotherapy + Surgery
+STS_442,Female,78,High,pleiomorphic leiomyosarcoma,Leiomyosarcoma,right thigh,D,Radiotherapy + Surgery
+STS_443,Female,52,Intermediate,synovial sarcoma,Synovial sarcoma,right buttock,D,Surgery + Chemotherapy
+STS_444,Male,30,High,undifferentiated - pleiomorphic,MFH,left thigh,AWD,Radiotherapy + Surgery + Chemotherapy
+STS_445,Male,49,High,poorly differentiated synovial sarcoma,Synovial sarcoma,left thigh,AWD,Radiotherapy + Surgery + Chemotherapy
+STS_446,Male,80,High,leiomyosarcoma,MFH,left buttock,AWD,Radiotherapy + Surgery
+STS_447,Female,28,Intermediate,malignant solitary fibrous tumor,Leiomyosarcoma,right thigh,NED,Radiotherapy + Surgery
+STS_448,Female,66,Intermediate,leiomyosarcoma,Synovial sarcoma,parascapusular,NED,Radiotherapy + Surgery
+STS_449,Male,70,Intermediate,myxofibrosarcoma,Leiomyosarcoma,left thigh,AWD,Radiotherapy + Surgery + Chemotherapy
+STS_450,Female,34,Intermediate,epithelioid sarcoma,Synovial sarcoma,left thigh,D,Surgery + Chemotherapy
+STS_451,Female,17,High,myxoid fibrosarcoma,MFH,right thigh,D,Radiotherapy + Surgery + Chemotherapy
+STS_452,Female,47,High,synovial sarcoma,MFH,right buttock,D,Radiotherapy + Surgery + Chemotherapy
+STS_453,Female,57,High,sclerosing epithelioid fibrosarcoma,Leiomyosarcoma,left thigh,NED,Radiotherapy + Surgery + Chemotherapy
+STS_454,Female,75,Intermediate,pleiomorphic leiomyosarcoma,Leiomyosarcoma,right thigh,NED,Radiotherapy + Surgery
+STS_455,Male,38,High,poorly differentiated synovial sarcoma,MFH,left thigh,D,Radiotherapy + Surgery + Chemotherapy
+STS_456,Female,83,Intermediate,pleiomorphic leiomyosarcoma,Leiomyosarcoma,left thigh,NED,Radiotherapy + Surgery
+STS_457,Female,77,Intermediate,sclerosing epithelioid fibrosarcoma,Synovial sarcoma,right buttock,D,Radiotherapy + Surgery
+STS_458,Male,45,High,poorly differentiated synovial sarcoma,MFH,left thigh,AWD,Radiotherapy + Surgery + Chemotherapy
+STS_459,Male,64,Intermediate,sclerosing epithelioid fibrosarcoma,MFH,right buttock,D,Surgery + Chemotherapy
+STS_460,Male,53,High,pleiomorphic leiomyosarcoma,Leiomyosarcoma,right thigh,NED,Radiotherapy + Surgery
+STS_461,Female,47,Intermediate,synovial sarcoma,Synovial sarcoma,right buttock,NED,Radiotherapy + Surgery
+STS_462,Male,43,High,poorly differentiated synovial sarcoma,Synovial sarcoma,left thigh,D,Surgery + Chemotherapy
+STS_463,Female,51,High,synovial sarcoma,Synovial sarcoma,right buttock,D,Surgery + Chemotherapy
+STS_464,Female,41,Intermediate,sclerosing epithelioid fibrosarcoma,Synovial sarcoma,right thigh,D,Radiotherapy + Surgery
+STS_465,Male,42,Intermediate,sclerosing epithelioid fibrosarcoma,MFH,left buttock,D,Radiotherapy + Surgery + Chemotherapy
+STS_466,Male,40,High,myxoid fibrosarcoma,MFH,right parascapusular,AWD,Radiotherapy + Surgery + Chemotherapy
+STS_467,Female,61,High,pleiomorphic leiomyosarcoma,MFH,left biceps,D,Radiotherapy + Surgery
+STS_468,Female,57,Intermediate,sclerosing epithelioid fibrosarcoma,Synovial sarcoma,right buttock,NED,Radiotherapy + Surgery
+STS_469,Male,47,High,undifferentiated - pleiomorphic,MFH,left thigh,AWD,Radiotherapy + Surgery + Chemotherapy
+STS_470,Male,43,High,myxoid fibrosarcoma,Synovial sarcoma,right thigh,NED,Radiotherapy + Surgery + Chemotherapy
+STS_471,Female,63,Intermediate,pleiomorphic leiomyosarcoma,Leiomyosarcoma,parascapusular,NED,Radiotherapy + Surgery
+STS_472,Male,54,High,pleiomorphic leiomyosarcoma,MFH,left thigh,AWD,Radiotherapy + Surgery + Chemotherapy
+STS_473,Female,40,Intermediate,synovial sarcoma,Synovial sarcoma,right buttock,D,Surgery + Chemotherapy
+STS_474,Female,67,High,synovial sarcoma,MFH,left thigh,AWD,Radiotherapy + Surgery + Chemotherapy
+STS_475,Female,61,Intermediate,pleiomorphic leiomyosarcoma,MFH,left thigh,NED,Radiotherapy + Surgery
+STS_476,Female,39,Intermediate,synovial sarcoma,MFH,right thigh,D,Radiotherapy + Surgery
+STS_477,Female,78,Intermediate,pleomorphic sarcoma,MFH,left thigh,NED,Radiotherapy + Surgery
+STS_478,Female,27,Intermediate,sclerosing epithelioid fibrosarcoma,Synovial sarcoma,left biceps,NED,Surgery + Chemotherapy
+STS_479,Female,65,High,sclerosing epithelioid fibrosarcoma,MFH,left biceps,NED,Radiotherapy + Surgery + Chemotherapy
+STS_480,Male,30,Intermediate,pleiomorphic spindle cell undifferentiated,MFH,right thigh,NED,Radiotherapy + Surgery + Chemotherapy
+STS_481,Female,48,Intermediate,pleiomorphic leiomyosarcoma,Leiomyosarcoma,parascapusular,NED,Radiotherapy + Surgery
+STS_482,Female,44,Intermediate,synovial sarcoma,Synovial sarcoma,right buttock,D,Surgery + Chemotherapy
+STS_483,Male,46,Intermediate,myxoid fibrosarcoma,MFH,left thigh,AWD,Radiotherapy + Surgery + Chemotherapy
+STS_484,Female,61,Intermediate,pleiomorphic leiomyosarcoma,Synovial sarcoma,left thigh,D,Radiotherapy + Surgery
+STS_485,Female,80,Intermediate,leiomyosarcoma,Leiomyosarcoma,right thigh,NED,Radiotherapy + Surgery
+STS_486,Male,52,High,undifferentiated - pleiomorphic,MFH,left thigh,AWD,Radiotherapy + Surgery + Chemotherapy
+STS_487,Female,65,Intermediate,poorly differentiated synovial sarcoma,Leiomyosarcoma,right parascapusular,NED,Radiotherapy + Surgery
+STS_488,Female,31,Intermediate,malignant solitary fibrous tumor,Leiomyosarcoma,parascapusular,NED,Radiotherapy + Surgery
+STS_489,Female,66,Intermediate,synovial sarcoma,Synovial sarcoma,right thigh,NED,Radiotherapy + Surgery
+STS_490,Female,67,Intermediate,synovial sarcoma,Synovial sarcoma,right thigh,AWD,Surgery + Chemotherapy
+STS_491,Female,65,Intermediate,undifferentiated - pleiomorphic,Leiomyosarcoma,parascapusular,NED,Surgery + Chemotherapy
+STS_492,Female,37,Intermediate,pleiomorphic spindle cell undifferentiated,MFH,left thigh,NED,Surgery + Chemotherapy
+STS_493,Male,64,Intermediate,sclerosing epithelioid fibrosarcoma,Synovial sarcoma,right buttock,D,Surgery + Chemotherapy
+STS_494,Male,35,High,pleomorphic sarcoma,MFH,left thigh,AWD,Radiotherapy + Surgery + Chemotherapy
+STS_495,Male,54,High,pleomorphic sarcoma,MFH,right thigh,AWD,Radiotherapy + Surgery + Chemotherapy
+STS_496,Male,31,Intermediate,epithelioid sarcoma,MFH,left thigh,D,Surgery + Chemotherapy
+STS_497,Male,41,High,poorly differentiated synovial sarcoma,MFH,right parascapusular,AWD,Radiotherapy + Surgery + Chemotherapy
+STS_498,Female,60,Intermediate,pleomorphic sarcoma,Synovial sarcoma,right thigh,NED,Radiotherapy + Surgery
+STS_499,Male,43,High,synovial sarcoma,MFH,right thigh,D,Radiotherapy + Surgery + Chemotherapy
+STS_500,Female,73,Intermediate,pleiomorphic leiomyosarcoma,Leiomyosarcoma,left biceps,NED,Radiotherapy + Surgery
